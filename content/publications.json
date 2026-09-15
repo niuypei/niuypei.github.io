@@ -1,0 +1,517 @@
+[
+  {
+    "id": "flexmarl-arxiv-2026",
+    "type": "preprint",
+    "title": "Rollout-Training Co-Design for Efficient LLM-Based Multi-Agent Reinforcement Learning",
+    "authors": [
+      "Zhida Jiang",
+      "Zhaolong Xing",
+      "Jiawei Lu",
+      "Yipei Niu",
+      "Qingyuan Sang",
+      "Liangxu Zhang",
+      "Wenquan Dai",
+      "Junhua Shu",
+      "Jiaxing Wang",
+      "Qiangyu Pei",
+      "Qiong Chen",
+      "Xinyu Liu",
+      "Fangming Liu",
+      "Ai Han",
+      "Zhen Chen",
+      "Ke Zhang"
+    ],
+    "venue": "arXiv",
+    "short_venue": "arXiv",
+    "year": 2026,
+    "display_year": 2026,
+    "citation": "arXiv preprint arXiv:2602.09578, 2026.",
+    "doi": "10.48550/arXiv.2602.09578",
+    "url": "https://arxiv.org/abs/2602.09578",
+    "eprint": "2602.09578",
+    "links": [
+      {
+        "label": "PDF",
+        "url": "https://arxiv.org/pdf/2602.09578"
+      },
+      {
+        "label": "arXiv",
+        "url": "https://arxiv.org/abs/2602.09578"
+      }
+    ],
+    "source_page": "https://arxiv.org/abs/2602.09578",
+    "sources": [
+      "https://arxiv.org/abs/2602.09578",
+      "https://dblp.org/rec/journals/corr/abs-2602-09578"
+    ],
+    "verification_note": "arXiv author-submitted metadata confirms the complete 16-author order and initial date 2026-02-10. Abstract page has no journal reference. The HTML manuscript contains a generic conference template line, which is insufficient to assign a formal conference venue. Google Scholar profile unavailable (HTTP 429); membership in the requested Scholar profile has not been verified.",
+    "scholar_entry_url": null,
+    "scholar_profile_membership_verified": false,
+    "archivePrefix": "arXiv",
+    "primaryClass": "cs.LG",
+    "publication_date": "2026-02-10"
+  },
+  {
+    "id": "combofunc-tpds-2024",
+    "type": "journal",
+    "title": "ComboFunc: Joint Resource Combination and Container Placement for Serverless Function Scaling With Heterogeneous Container",
+    "authors": [
+      "Zhaojie Wen",
+      "Qiong Chen",
+      "Quanfeng Deng",
+      "Yipei Niu",
+      "Zhen Song",
+      "Fangming Liu"
+    ],
+    "venue": "IEEE Transactions on Parallel and Distributed Systems",
+    "short_venue": "TPDS",
+    "year": 2024,
+    "display_year": 2024,
+    "citation": "IEEE Transactions on Parallel and Distributed Systems (TPDS), 35(11), pp. 1989–2005, 2024.",
+    "doi": "10.1109/TPDS.2024.3454071",
+    "url": "https://ieeexplore.ieee.org/document/10663837/",
+    "volume": "35",
+    "number": "11",
+    "pages": "1989--2005",
+    "links": [
+      {
+        "label": "IEEE Xplore",
+        "url": "https://ieeexplore.ieee.org/document/10663837/"
+      },
+      {
+        "label": "DOI",
+        "url": "https://doi.org/10.1109/TPDS.2024.3454071"
+      }
+    ],
+    "source_page": "https://dblp.org/pid/167/3905.html",
+    "sources": [
+      "https://dblp.org/rec/journals/tpds/WenCDNSL24",
+      "https://api.crossref.org/works/10.1109%2FTPDS.2024.3454071",
+      "https://ieeexplore.ieee.org/document/10663837/"
+    ],
+    "verification_note": "Publisher-deposited Crossref metadata and DBLP agree on title, author order, final issue year, volume, issue, pages, and DOI. Author-hosted PDF URL fetched successfully; this is an author manuscript with placeholder issue details. Google Scholar profile unavailable (HTTP 429); membership in the requested Scholar profile has not been verified.",
+    "scholar_entry_url": null,
+    "scholar_profile_membership_verified": false,
+    "publication_date": "2024-11"
+  },
+  {
+    "id": "stepconf-tpds-2024",
+    "type": "journal",
+    "title": "Joint Optimization of Parallelism and Resource Configuration for Serverless Function Steps",
+    "authors": [
+      "Zhaojie Wen",
+      "Qiong Chen",
+      "Yipei Niu",
+      "Zhen Song",
+      "Quanfeng Deng",
+      "Fangming Liu"
+    ],
+    "venue": "IEEE Transactions on Parallel and Distributed Systems",
+    "short_venue": "TPDS",
+    "year": 2024,
+    "display_year": 2024,
+    "citation": "IEEE Transactions on Parallel and Distributed Systems (TPDS), 35(4), pp. 560–576, 2024.",
+    "doi": "10.1109/TPDS.2024.3365134",
+    "url": "https://ieeexplore.ieee.org/document/10433749/",
+    "volume": "35",
+    "number": "4",
+    "pages": "560--576",
+    "links": [
+      {
+        "label": "IEEE Xplore",
+        "url": "https://ieeexplore.ieee.org/document/10433749/"
+      },
+      {
+        "label": "DOI",
+        "url": "https://doi.org/10.1109/TPDS.2024.3365134"
+      }
+    ],
+    "source_page": "https://dblp.org/pid/167/3905.html",
+    "sources": [
+      "https://dblp.org/rec/journals/tpds/WenCNSDL24",
+      "https://api.crossref.org/works/10.1109%2FTPDS.2024.3365134",
+      "https://ieeexplore.ieee.org/document/10433749/"
+    ],
+    "verification_note": "Publisher-deposited Crossref metadata and DBLP agree on title, author order, final issue year, volume, issue, pages, and DOI. Author-hosted PDF URL fetched successfully; this is an author manuscript with placeholder issue details. Google Scholar profile unavailable (HTTP 429); membership in the requested Scholar profile has not been verified.",
+    "scholar_entry_url": null,
+    "scholar_profile_membership_verified": false,
+    "publication_date": "2024-04"
+  },
+  {
+    "id": "serverless-cost-tpds-2024",
+    "type": "journal",
+    "title": "Demystifying the Cost of Serverless Computing: Towards a Win-Win Deal",
+    "authors": [
+      "Fangming Liu",
+      "Yipei Niu"
+    ],
+    "venue": "IEEE Transactions on Parallel and Distributed Systems",
+    "short_venue": "TPDS",
+    "year": 2024,
+    "display_year": 2024,
+    "citation": "IEEE Transactions on Parallel and Distributed Systems (TPDS), 35(1), pp. 59–72, 2024.",
+    "doi": "10.1109/TPDS.2023.3330849",
+    "url": "https://ieeexplore.ieee.org/document/10310285/",
+    "volume": "35",
+    "number": "1",
+    "pages": "59--72",
+    "links": [
+      {
+        "label": "IEEE Xplore",
+        "url": "https://ieeexplore.ieee.org/document/10310285/"
+      },
+      {
+        "label": "DOI",
+        "url": "https://doi.org/10.1109/TPDS.2023.3330849"
+      }
+    ],
+    "source_page": "https://dblp.org/pid/167/3905.html",
+    "sources": [
+      "https://dblp.org/rec/journals/tpds/LiuN24",
+      "https://api.crossref.org/works/10.1109%2FTPDS.2023.3330849",
+      "https://ieeexplore.ieee.org/document/10310285/"
+    ],
+    "verification_note": "Publisher-deposited Crossref metadata and DBLP agree on title, author order, final issue year, volume, issue, pages, and DOI. Author-hosted PDF URL fetched successfully; this is an author manuscript with placeholder issue details. Google Scholar profile unavailable (HTTP 429); membership in the requested Scholar profile has not been verified.",
+    "scholar_entry_url": null,
+    "scholar_profile_membership_verified": false,
+    "publication_date": "2024-01",
+    "award": {
+      "label": "IEEE TPDS Best Paper Award",
+      "year": 2024,
+      "url": "https://www.computer.org/publications/best-paper-awards-archive#winners"
+    },
+    "pinned": true
+  },
+  {
+    "id": "postman-tpds-2022",
+    "type": "journal",
+    "title": "PostMan: Rapidly Mitigating Bursty Traffic via On-Demand Offloading of Packet Processing",
+    "authors": [
+      "Yipei Niu",
+      "Panpan Jin",
+      "Jian Guo",
+      "Yikai Xiao",
+      "Rong Shi",
+      "Fangming Liu",
+      "Chen Qian",
+      "Yang Wang"
+    ],
+    "venue": "IEEE Transactions on Parallel and Distributed Systems",
+    "short_venue": "TPDS",
+    "year": 2022,
+    "display_year": 2022,
+    "citation": "IEEE Transactions on Parallel and Distributed Systems (TPDS), 33(2), pp. 374–387, 2022.",
+    "url": "https://ieeexplore.ieee.org/document/9464666/",
+    "links": [
+      {
+        "label": "IEEE Xplore",
+        "url": "https://ieeexplore.ieee.org/document/9464666/"
+      },
+      {
+        "label": "DOI",
+        "url": "https://doi.org/10.1109/TPDS.2021.3092266"
+      }
+    ],
+    "source_page": "https://newypei.github.io/research.html",
+    "sources": [
+      "https://api.crossref.org/works/10.1109%2FTPDS.2021.3092266",
+      "https://ieeexplore.ieee.org/document/9464666/"
+    ],
+    "verification_note": "Formal issue is February 2022; PDF says first online publication 24 June 2021. Journal title uses 'via On-Demand', with Yipei Niu first.",
+    "doi": "10.1109/TPDS.2021.3092266",
+    "volume": "33",
+    "number": "2",
+    "pages": "374--387",
+    "publication_date": "2022-02-01"
+  },
+  {
+    "id": "fpga-tcc-2022",
+    "type": "journal",
+    "title": "When FPGA Meets Cloud: A First Look at Performance",
+    "authors": [
+      "Xiuxiu Wang",
+      "Yipei Niu",
+      "Fangming Liu",
+      "Zichen Xu"
+    ],
+    "venue": "IEEE Transactions on Cloud Computing",
+    "short_venue": "TCC",
+    "year": 2022,
+    "display_year": 2022,
+    "citation": "IEEE Transactions on Cloud Computing (TCC), 10(2), pp. 1344–1357, 2022.",
+    "url": "https://ieeexplore.ieee.org/document/9086121/",
+    "links": [
+      {
+        "label": "IEEE Xplore",
+        "url": "https://ieeexplore.ieee.org/document/9086121/"
+      },
+      {
+        "label": "DOI",
+        "url": "https://doi.org/10.1109/TCC.2020.2992548"
+      }
+    ],
+    "source_page": "https://newypei.github.io/research.html",
+    "sources": [
+      "https://www.comsoc.org/system/files/2022-07/Publications_Contents_Digest_2022_Jun.pdf",
+      "https://api.crossref.org/works/10.1109%2FTCC.2020.2992548",
+      "https://ieeexplore.ieee.org/document/9086121/"
+    ],
+    "verification_note": "Replace old 'to appear, 2020' with final TCC 10(2), 1344–1357, 2022. IEEE publisher-deposited Crossref metadata gives published-print 2022-04-01.",
+    "doi": "10.1109/TCC.2020.2992548",
+    "volume": "10",
+    "number": "2",
+    "pages": "1344--1357",
+    "publication_date": "2022-04-01"
+  },
+  {
+    "id": "hybrid-cloud-monet-2017",
+    "type": "journal",
+    "title": "Cost-Effective Service Provisioning for Hybrid Cloud Applications",
+    "authors": [
+      "Fangming Liu",
+      "Bin Luo",
+      "Yipei Niu"
+    ],
+    "venue": "Mobile Networks and Applications",
+    "short_venue": "MONET",
+    "year": 2017,
+    "display_year": 2017,
+    "citation": "Mobile Networks and Applications (MONET), 22(2), pp. 153–160, 2017.",
+    "url": "https://link.springer.com/article/10.1007/s11036-016-0738-0",
+    "links": [
+      {
+        "label": "Springer",
+        "url": "https://link.springer.com/article/10.1007/s11036-016-0738-0"
+      },
+      {
+        "label": "DOI",
+        "url": "https://doi.org/10.1007/s11036-016-0738-0"
+      }
+    ],
+    "source_page": "https://newypei.github.io/research.html",
+    "sources": [
+      "https://link.springer.com/article/10.1007/s11036-016-0738-0",
+      "https://api.crossref.org/works/10.1007%2Fs11036-016-0738-0",
+      "http://link.springer.com/10.1007/s11036-016-0738-0"
+    ],
+    "verification_note": "Formal issue is April 2017; online first is 17 May 2016. Author order differs from conference version.",
+    "doi": "10.1007/s11036-016-0738-0",
+    "volume": "22",
+    "number": "2",
+    "pages": "153--160",
+    "publication_date": "2017-04"
+  },
+  {
+    "id": "postman-atc-2019",
+    "type": "conference",
+    "title": "PostMan: Rapidly Mitigating Bursty Traffic by Offloading Packet Processing",
+    "authors": [
+      "Panpan Jin",
+      "Jian Guo",
+      "Yikai Xiao",
+      "Rong Shi",
+      "Yipei Niu",
+      "Fangming Liu",
+      "Chen Qian",
+      "Yang Wang"
+    ],
+    "venue": "2019 USENIX Annual Technical Conference (USENIX ATC 19)",
+    "short_venue": "ATC",
+    "year": 2019,
+    "display_year": 2019,
+    "citation": "USENIX Annual Technical Conference (ATC), pp. 849–862, 2019.",
+    "url": "https://www.usenix.org/conference/atc19/presentation/jin",
+    "links": [
+      {
+        "label": "PDF",
+        "url": "https://www.usenix.org/system/files/atc19-jin.pdf"
+      },
+      {
+        "label": "Slides",
+        "url": "https://www.usenix.org/sites/default/files/conference/protected-files/atc19_slides_jin.pdf"
+      },
+      {
+        "label": "Lightning talk",
+        "url": "https://www.youtube.com/watch?v=veb976OGeGs"
+      },
+      {
+        "label": "USENIX",
+        "url": "https://www.usenix.org/conference/atc19/presentation/jin"
+      }
+    ],
+    "source_page": "https://newypei.github.io/research.html",
+    "sources": [
+      "https://www.usenix.org/conference/atc19/presentation/jin"
+    ],
+    "verification_note": "Official USENIX BibTeX has no DOI. Conference title uses 'by Offloading', with Panpan Jin first and Yipei Niu fifth.",
+    "pages": "849--862",
+    "publisher": "USENIX Association",
+    "local_slides": "assets/files/atc19_slides.pdf",
+    "publication_date": "2019-07"
+  },
+  {
+    "id": "microservices-infocom-2018",
+    "type": "conference",
+    "title": "Load Balancing across Microservices",
+    "authors": [
+      "Yipei Niu",
+      "Fangming Liu",
+      "Zongpeng Li"
+    ],
+    "venue": "IEEE INFOCOM 2018 - IEEE Conference on Computer Communications",
+    "short_venue": "INFOCOM",
+    "year": 2018,
+    "display_year": 2018,
+    "citation": "IEEE Conference on Computer Communications (INFOCOM), pp. 198–206, 2018.",
+    "url": "https://ieeexplore.ieee.org/document/8486300/",
+    "links": [
+      {
+        "label": "IEEE Xplore",
+        "url": "https://ieeexplore.ieee.org/document/8486300/"
+      },
+      {
+        "label": "Slides",
+        "url": "assets/files/INFOCOM2018-Slides-v5.pdf"
+      },
+      {
+        "label": "DOI",
+        "url": "https://doi.org/10.1109/INFOCOM.2018.8486300"
+      }
+    ],
+    "source_page": "https://newypei.github.io/research.html",
+    "sources": [
+      "https://api.crossref.org/works/10.1109%2FINFOCOM.2018.8486300",
+      "https://ieeexplore.ieee.org/document/8486300/"
+    ],
+    "verification_note": "Author-hosted PDF confirms title and author order; publisher-deposited metadata confirms 198–206 and DOI.",
+    "doi": "10.1109/INFOCOM.2018.8486300",
+    "pages": "198--206",
+    "local_slides": "assets/files/INFOCOM2018-Slides-v5.pdf",
+    "publication_date": "2018-04"
+  },
+  {
+    "id": "flash-deals-infocom-2017",
+    "type": "conference",
+    "title": "Handling Flash Deals with Soft Guarantee in Hybrid Cloud",
+    "authors": [
+      "Yipei Niu",
+      "Fangming Liu",
+      "Xincai Fei",
+      "Bo Li"
+    ],
+    "venue": "IEEE INFOCOM 2017 - IEEE Conference on Computer Communications",
+    "short_venue": "INFOCOM",
+    "year": 2017,
+    "display_year": 2017,
+    "citation": "IEEE Conference on Computer Communications (INFOCOM), pp. 1–9, 2017.",
+    "url": "https://ieeexplore.ieee.org/document/8056973/",
+    "links": [
+      {
+        "label": "IEEE Xplore",
+        "url": "https://ieeexplore.ieee.org/document/8056973/"
+      },
+      {
+        "label": "Slides",
+        "url": "assets/files/INFOCOM2017-Slides-v3.pdf"
+      },
+      {
+        "label": "DOI",
+        "url": "https://doi.org/10.1109/INFOCOM.2017.8056973"
+      }
+    ],
+    "source_page": "https://newypei.github.io/research.html",
+    "sources": [
+      "https://researchportal.hkust.edu.hk/en/publications/handling-flash-deals-with-soft-guarantee-in-hybrid-cloud/",
+      "https://api.crossref.org/works/10.1109%2FINFOCOM.2017.8056973",
+      "http://ieeexplore.ieee.org/document/8056973/",
+      "https://ieeexplore.ieee.org/document/8056973/"
+    ],
+    "verification_note": "Author institution record confirms title, authors, DOI; publisher-deposited metadata confirms pages 1–9.",
+    "doi": "10.1109/INFOCOM.2017.8056973",
+    "pages": "1--9",
+    "local_slides": "assets/files/INFOCOM2017-Slides-v3.pdf",
+    "publication_date": "2017-05"
+  },
+  {
+    "id": "hybrid-cloud-infocom-2015",
+    "type": "conference",
+    "title": "When Hybrid Cloud Meets Flash Crowd: Towards Cost-Effective Service Provisioning",
+    "authors": [
+      "Yipei Niu",
+      "Bin Luo",
+      "Fangming Liu",
+      "Jiangchuan Liu",
+      "Bo Li"
+    ],
+    "venue": "2015 IEEE Conference on Computer Communications (INFOCOM)",
+    "short_venue": "INFOCOM",
+    "year": 2015,
+    "display_year": 2015,
+    "citation": "IEEE Conference on Computer Communications (INFOCOM), pp. 1044–1052, 2015.",
+    "url": "https://ieeexplore.ieee.org/document/7218477/",
+    "links": [
+      {
+        "label": "IEEE Xplore",
+        "url": "https://ieeexplore.ieee.org/document/7218477/"
+      },
+      {
+        "label": "Slides",
+        "url": "assets/files/INFOCOM2015-Slides.pdf"
+      },
+      {
+        "label": "DOI",
+        "url": "https://doi.org/10.1109/INFOCOM.2015.7218477"
+      }
+    ],
+    "source_page": "https://newypei.github.io/research.html",
+    "sources": [
+      "https://api.crossref.org/works/10.1109%2FINFOCOM.2015.7218477",
+      "http://ieeexplore.ieee.org/document/7218477/",
+      "https://ieeexplore.ieee.org/document/7218477/"
+    ],
+    "verification_note": "Author-hosted PDF confirms title and author order; publisher-deposited metadata confirms pages 1044–1052.",
+    "doi": "10.1109/INFOCOM.2015.7218477",
+    "pages": "1044--1052",
+    "local_slides": "assets/files/INFOCOM2015-Slides.pdf",
+    "publication_date": "2015-04"
+  },
+  {
+    "id": "hybrid-cloud-collaboratecom-2015",
+    "type": "conference",
+    "title": "Cost-effective service provisioning for hybrid cloud applications",
+    "authors": [
+      "Bin Luo",
+      "Yipei Niu",
+      "Fangming Liu"
+    ],
+    "venue": "Collaborative Computing: Networking, Applications, and Worksharing",
+    "short_venue": "EAI",
+    "year": 2016,
+    "display_year": 2015,
+    "citation": "EAI CollaborateCom 2015, pp. 47–56. Proceedings published in 2016.",
+    "url": "https://link.springer.com/chapter/10.1007/978-3-319-28910-6_5",
+    "links": [
+      {
+        "label": "Springer",
+        "url": "https://link.springer.com/chapter/10.1007/978-3-319-28910-6_5"
+      },
+      {
+        "label": "DOI",
+        "url": "https://doi.org/10.1007/978-3-319-28910-6_5"
+      }
+    ],
+    "source_page": "https://newypei.github.io/research.html",
+    "sources": [
+      "https://link.springer.com/book/10.1007/978-3-319-28910-6",
+      "https://api.crossref.org/works/10.1007%2F978-3-319-28910-6_5",
+      "http://link.springer.com/10.1007/978-3-319-28910-6_5",
+      "https://link.springer.com/chapter/10.1007/978-3-319-28910-6_5"
+    ],
+    "verification_note": "Conference is CollaborateCom 2015, held 10–11 November 2015. Springer published the proceedings in January 2016. Keep display venue 'CollaborateCom 2015', BibTeX year 2016. Separate from MONET 2017; Bin Luo first, Yipei Niu second.",
+    "doi": "10.1007/978-3-319-28910-6_5",
+    "volume": "163",
+    "pages": "47--56",
+    "publisher": "Springer",
+    "publication_date": "2016-01"
+  }
+]

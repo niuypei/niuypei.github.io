@@ -1,0 +1,220 @@
+{
+  "scope": "Only the eight works on https://newypei.github.io/research.html. No identity inference or additional works.",
+  "reviewed_at": "2026-09-15",
+  "publication_count": 8,
+  "source_policy": "Publisher pages, author-hosted PDFs, author-institution portal, USENIX official BibTeX, IEEE ComSoc digest and publisher-deposited Crossref records. DBLP was used as a cross-check.",
+  "publications": [
+    {
+      "key": "niu2022postman",
+      "type": "article",
+      "doi": "10.1109/TPDS.2021.3092266",
+      "year": 2022,
+      "month": "feb",
+      "source": "https://newypei.github.io/files/postman-tpds.pdf",
+      "note": "Formal issue is February 2022; PDF says first online publication 24 June 2021. Journal title uses 'via On-Demand', with Yipei Niu first.",
+      "title": "PostMan: Rapidly Mitigating Bursty Traffic via On-Demand Offloading of Packet Processing",
+      "authors": [
+        "Yipei Niu",
+        "Panpan Jin",
+        "Jian Guo",
+        "Yikai Xiao",
+        "Rong Shi",
+        "Fangming Liu",
+        "Chen Qian",
+        "Yang Wang"
+      ],
+      "venue": "IEEE Transactions on Parallel and Distributed Systems",
+      "volume": "33",
+      "number": "2",
+      "pages": "374-387",
+      "sources": [
+        "https://newypei.github.io/files/postman-tpds.pdf",
+        "https://api.crossref.org/works/10.1109%2FTPDS.2021.3092266",
+        "https://ieeexplore.ieee.org/document/9464666/"
+      ],
+      "bibtex": "@article{niu2022postman,\n  title = {{PostMan: Rapidly Mitigating Bursty Traffic via On-Demand Offloading of Packet Processing}},\n  author = {Yipei Niu and Panpan Jin and Jian Guo and Yikai Xiao and Rong Shi and Fangming Liu and Chen Qian and Yang Wang},\n  journal = {IEEE Transactions on Parallel and Distributed Systems},\n  year = {2022},\n  volume = {33},\n  number = {2},\n  pages = {374--387},\n  month = {feb},\n  doi = {10.1109/TPDS.2021.3092266}\n}"
+    },
+    {
+      "key": "wang2022fpga",
+      "type": "article",
+      "doi": "10.1109/TCC.2020.2992548",
+      "year": 2022,
+      "month": "apr",
+      "source": "https://www.comsoc.org/system/files/2022-07/Publications_Contents_Digest_2022_Jun.pdf",
+      "note": "Replace old 'to appear, 2020' with final TCC 10(2), 1344–1357, 2022. IEEE publisher-deposited Crossref metadata gives published-print 2022-04-01.",
+      "title": "When FPGA Meets Cloud: A First Look at Performance",
+      "authors": [
+        "Xiuxiu Wang",
+        "Yipei Niu",
+        "Fangming Liu",
+        "Zichen Xu"
+      ],
+      "venue": "IEEE Transactions on Cloud Computing",
+      "volume": "10",
+      "number": "2",
+      "pages": "1344-1357",
+      "sources": [
+        "https://www.comsoc.org/system/files/2022-07/Publications_Contents_Digest_2022_Jun.pdf",
+        "https://api.crossref.org/works/10.1109%2FTCC.2020.2992548",
+        "https://ieeexplore.ieee.org/document/9086121/"
+      ],
+      "bibtex": "@article{wang2022fpga,\n  title = {{When FPGA Meets Cloud: A First Look at Performance}},\n  author = {Xiuxiu Wang and Yipei Niu and Fangming Liu and Zichen Xu},\n  journal = {IEEE Transactions on Cloud Computing},\n  year = {2022},\n  volume = {10},\n  number = {2},\n  pages = {1344--1357},\n  month = {apr},\n  doi = {10.1109/TCC.2020.2992548}\n}"
+    },
+    {
+      "key": "liu2017costeffective",
+      "type": "article",
+      "doi": "10.1007/s11036-016-0738-0",
+      "year": 2017,
+      "month": "apr",
+      "source": "https://link.springer.com/article/10.1007/s11036-016-0738-0",
+      "note": "Formal issue is April 2017; online first is 17 May 2016. Author order differs from conference version.",
+      "title": "Cost-Effective Service Provisioning for Hybrid Cloud Applications",
+      "authors": [
+        "Fangming Liu",
+        "Bin Luo",
+        "Yipei Niu"
+      ],
+      "venue": "Mobile Networks and Applications",
+      "volume": "22",
+      "number": "2",
+      "pages": "153-160",
+      "sources": [
+        "https://link.springer.com/article/10.1007/s11036-016-0738-0",
+        "https://api.crossref.org/works/10.1007%2Fs11036-016-0738-0",
+        "http://link.springer.com/10.1007/s11036-016-0738-0"
+      ],
+      "bibtex": "@article{liu2017costeffective,\n  title = {{Cost-Effective Service Provisioning for Hybrid Cloud Applications}},\n  author = {Fangming Liu and Bin Luo and Yipei Niu},\n  journal = {Mobile Networks and Applications},\n  year = {2017},\n  volume = {22},\n  number = {2},\n  pages = {153--160},\n  month = {apr},\n  doi = {10.1007/s11036-016-0738-0}\n}"
+    },
+    {
+      "key": "jin2019postman",
+      "type": "inproceedings",
+      "year": 2019,
+      "month": "jul",
+      "source": "https://www.usenix.org/conference/atc19/presentation/jin",
+      "note": "Official USENIX BibTeX has no DOI. Conference title uses 'by Offloading', with Panpan Jin first and Yipei Niu fifth.",
+      "title": "PostMan: Rapidly Mitigating Bursty Traffic by Offloading Packet Processing",
+      "authors": [
+        "Panpan Jin",
+        "Jian Guo",
+        "Yikai Xiao",
+        "Rong Shi",
+        "Yipei Niu",
+        "Fangming Liu",
+        "Chen Qian",
+        "Yang Wang"
+      ],
+      "venue": "2019 USENIX Annual Technical Conference (USENIX ATC 19)",
+      "volume": "",
+      "number": "",
+      "pages": "849-862",
+      "doi": "",
+      "sources": [
+        "https://www.usenix.org/conference/atc19/presentation/jin"
+      ],
+      "bibtex": "@inproceedings{jin2019postman,\n  title = {{PostMan: Rapidly Mitigating Bursty Traffic by Offloading Packet Processing}},\n  author = {Panpan Jin and Jian Guo and Yikai Xiao and Rong Shi and Yipei Niu and Fangming Liu and Chen Qian and Yang Wang},\n  booktitle = {2019 USENIX Annual Technical Conference (USENIX ATC 19)},\n  year = {2019},\n  pages = {849--862},\n  month = {jul},\n  isbn = {978-1-939133-03-8},\n  address = {Renton, WA},\n  publisher = {USENIX Association},\n  url = {https://www.usenix.org/conference/atc19/presentation/jin}\n}"
+    },
+    {
+      "key": "niu2018load",
+      "type": "inproceedings",
+      "doi": "10.1109/INFOCOM.2018.8486300",
+      "year": 2018,
+      "month": "apr",
+      "source": "https://newypei.github.io/files/infocom2018.pdf",
+      "note": "Author-hosted PDF confirms title and author order; publisher-deposited metadata confirms 198–206 and DOI.",
+      "title": "Load Balancing Across Microservices",
+      "authors": [
+        "Yipei Niu",
+        "Fangming Liu",
+        "Zongpeng Li"
+      ],
+      "venue": "IEEE INFOCOM 2018 - IEEE Conference on Computer Communications",
+      "volume": "",
+      "number": "",
+      "pages": "198-206",
+      "sources": [
+        "https://newypei.github.io/files/infocom2018.pdf",
+        "https://api.crossref.org/works/10.1109%2FINFOCOM.2018.8486300",
+        "https://ieeexplore.ieee.org/document/8486300/"
+      ],
+      "bibtex": "@inproceedings{niu2018load,\n  title = {{Load Balancing Across Microservices}},\n  author = {Yipei Niu and Fangming Liu and Zongpeng Li},\n  booktitle = {IEEE INFOCOM 2018 - IEEE Conference on Computer Communications},\n  year = {2018},\n  pages = {198--206},\n  month = {apr},\n  doi = {10.1109/INFOCOM.2018.8486300}\n}"
+    },
+    {
+      "key": "niu2017flash",
+      "type": "inproceedings",
+      "doi": "10.1109/INFOCOM.2017.8056973",
+      "year": 2017,
+      "month": "may",
+      "source": "https://researchportal.hkust.edu.hk/en/publications/handling-flash-deals-with-soft-guarantee-in-hybrid-cloud/",
+      "note": "Author institution record confirms title, authors, DOI; publisher-deposited metadata confirms pages 1–9.",
+      "title": "Handling flash deals with soft guarantee in hybrid cloud",
+      "authors": [
+        "Yipei Niu",
+        "Fangming Liu",
+        "Xincai Fei",
+        "Bo Li"
+      ],
+      "venue": "IEEE INFOCOM 2017 - IEEE Conference on Computer Communications",
+      "volume": "",
+      "number": "",
+      "pages": "1-9",
+      "sources": [
+        "https://researchportal.hkust.edu.hk/en/publications/handling-flash-deals-with-soft-guarantee-in-hybrid-cloud/",
+        "https://api.crossref.org/works/10.1109%2FINFOCOM.2017.8056973",
+        "http://ieeexplore.ieee.org/document/8056973/"
+      ],
+      "bibtex": "@inproceedings{niu2017flash,\n  title = {{Handling flash deals with soft guarantee in hybrid cloud}},\n  author = {Yipei Niu and Fangming Liu and Xincai Fei and Bo Li},\n  booktitle = {IEEE INFOCOM 2017 - IEEE Conference on Computer Communications},\n  year = {2017},\n  pages = {1--9},\n  month = {may},\n  doi = {10.1109/INFOCOM.2017.8056973}\n}"
+    },
+    {
+      "key": "niu2015hybrid",
+      "type": "inproceedings",
+      "doi": "10.1109/INFOCOM.2015.7218477",
+      "year": 2015,
+      "month": "apr",
+      "source": "https://newypei.github.io/files/infocom2015.pdf",
+      "note": "Author-hosted PDF confirms title and author order; publisher-deposited metadata confirms pages 1044–1052.",
+      "title": "When hybrid cloud meets flash crowd: Towards cost-effective service provisioning",
+      "authors": [
+        "Yipei Niu",
+        "Bin Luo",
+        "Fangming Liu",
+        "Jiangchuan Liu",
+        "Bo Li"
+      ],
+      "venue": "2015 IEEE Conference on Computer Communications (INFOCOM)",
+      "volume": "",
+      "number": "",
+      "pages": "1044-1052",
+      "sources": [
+        "https://newypei.github.io/files/infocom2015.pdf",
+        "https://api.crossref.org/works/10.1109%2FINFOCOM.2015.7218477",
+        "http://ieeexplore.ieee.org/document/7218477/"
+      ],
+      "bibtex": "@inproceedings{niu2015hybrid,\n  title = {{When hybrid cloud meets flash crowd: Towards cost-effective service provisioning}},\n  author = {Yipei Niu and Bin Luo and Fangming Liu and Jiangchuan Liu and Bo Li},\n  booktitle = {2015 IEEE Conference on Computer Communications (INFOCOM)},\n  year = {2015},\n  pages = {1044--1052},\n  month = {apr},\n  doi = {10.1109/INFOCOM.2015.7218477}\n}"
+    },
+    {
+      "key": "luo2016costeffective",
+      "type": "inproceedings",
+      "doi": "10.1007/978-3-319-28910-6_5",
+      "year": 2016,
+      "event_year": 2015,
+      "source": "https://link.springer.com/book/10.1007/978-3-319-28910-6",
+      "note": "Conference is CollaborateCom 2015, held 10–11 November 2015. Springer published the proceedings in January 2016. Keep display venue 'CollaborateCom 2015', BibTeX year 2016. Separate from MONET 2017; Bin Luo first, Yipei Niu second.",
+      "title": "Cost-Effective Service Provisioning for Hybrid Cloud Applications",
+      "authors": [
+        "Bin Luo",
+        "Yipei Niu",
+        "Fangming Liu"
+      ],
+      "venue": "Collaborative Computing: Networking, Applications, and Worksharing",
+      "volume": "163",
+      "number": "",
+      "pages": "47-56",
+      "sources": [
+        "https://link.springer.com/book/10.1007/978-3-319-28910-6",
+        "https://api.crossref.org/works/10.1007%2F978-3-319-28910-6_5",
+        "http://link.springer.com/10.1007/978-3-319-28910-6_5"
+      ],
+      "bibtex": "@inproceedings{luo2016costeffective,\n  title = {{Cost-Effective Service Provisioning for Hybrid Cloud Applications}},\n  author = {Bin Luo and Yipei Niu and Fangming Liu},\n  booktitle = {Collaborative Computing: Networking, Applications, and Worksharing},\n  year = {2016},\n  pages = {47--56},\n  doi = {10.1007/978-3-319-28910-6_5},\n  series = {Lecture Notes of the Institute for Computer Sciences, Social Informatics and Telecommunications Engineering},\n  volume = {163},\n  publisher = {Springer},\n  note = {CollaborateCom 2015}\n}"
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+[
+  {
+    "id": "flexmarl-arxiv-2026",
+    "publication_date": "2026-02-10",
+    "source": "https://arxiv.org/abs/2602.09578",
+    "basis": "Initial arXiv submission date; already verified in content/publications.json verification_note."
+  },
+  {
+    "id": "combofunc-tpds-2024",
+    "publication_date": "2024-11",
+    "source": "https://api.crossref.org/works/10.1109%2FTPDS.2024.3454071",
+    "basis": "Publisher-deposited Crossref published-print date-parts [2024, 11]; exact precision retained."
+  },
+  {
+    "id": "stepconf-tpds-2024",
+    "publication_date": "2024-04",
+    "source": "https://api.crossref.org/works/10.1109%2FTPDS.2024.3365134",
+    "basis": "Publisher-deposited Crossref published-print date-parts [2024, 4]; exact precision retained."
+  },
+  {
+    "id": "serverless-cost-tpds-2024",
+    "publication_date": "2024-01",
+    "source": "https://api.crossref.org/works/10.1109%2FTPDS.2023.3330849",
+    "basis": "Publisher-deposited Crossref published-print date-parts [2024, 1]; exact precision retained."
+  },
+  {
+    "id": "postman-tpds-2022",
+    "publication_date": "2022-02-01",
+    "source": "https://api.crossref.org/works/10.1109%2FTPDS.2021.3092266",
+    "basis": "Publisher-deposited Crossref published-print date-parts [2022, 2, 1]; exact precision retained."
+  },
+  {
+    "id": "fpga-tcc-2022",
+    "publication_date": "2022-04-01",
+    "source": "https://api.crossref.org/works/10.1109%2FTCC.2020.2992548",
+    "basis": "Publisher-deposited Crossref published-print date-parts [2022, 4, 1]; exact precision retained."
+  },
+  {
+    "id": "hybrid-cloud-monet-2017",
+    "publication_date": "2017-04",
+    "source": "https://link.springer.com/article/10.1007/s11036-016-0738-0",
+    "basis": "Final issue date April 2017, verified in docs/legacy-source/publication-verification.json; does not use online-first date 2016-05-17."
+  },
+  {
+    "id": "postman-atc-2019",
+    "publication_date": "2019-07",
+    "source": "https://www.usenix.org/conference/atc19/presentation/jin",
+    "basis": "Official USENIX BibTeX month = jul, year = 2019, preserved in docs/legacy-source/publication-verification.json. No publication day asserted."
+  },
+  {
+    "id": "microservices-infocom-2018",
+    "publication_date": "2018-04",
+    "source": "https://api.crossref.org/works/10.1109%2FINFOCOM.2018.8486300",
+    "basis": "Publisher-deposited Crossref published-print date-parts [2018, 4]; exact precision retained."
+  },
+  {
+    "id": "flash-deals-infocom-2017",
+    "publication_date": "2017-05",
+    "source": "https://api.crossref.org/works/10.1109%2FINFOCOM.2017.8056973",
+    "basis": "Publisher-deposited Crossref published-print date-parts [2017, 5]; exact precision retained."
+  },
+  {
+    "id": "hybrid-cloud-infocom-2015",
+    "publication_date": "2015-04",
+    "source": "https://api.crossref.org/works/10.1109%2FINFOCOM.2015.7218477",
+    "basis": "Publisher-deposited Crossref published-print date-parts [2015, 4]; exact precision retained."
+  },
+  {
+    "id": "hybrid-cloud-collaboratecom-2015",
+    "publication_date": "2016-01",
+    "source": "https://link.springer.com/book/10.1007/978-3-319-28910-6",
+    "basis": "Final proceedings published in January 2016, verified in docs/legacy-source/publication-verification.json. Conference took place in 2015; publication sorting uses existing final publication year 2016."
+  }
+]

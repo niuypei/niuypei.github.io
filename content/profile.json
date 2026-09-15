@@ -1,0 +1,80 @@
+{
+  "name": "Yipei Niu",
+  "site_url": "https://niuypei.github.io/",
+  "focus": "AI Infra Engineer",
+  "description": "Yipei Niu — research and publications in computer systems, serverless computing, distributed systems, and multi-agent reinforcement learning.",
+  "portrait": "assets/img/yipei-niu.jpg",
+  "email": "newypei@gmail.com",
+  "github": "https://github.com/niuypei",
+  "about": [
+    "My research interests span computer systems and AI, including scalable large language model training, reinforcement learning, and multi-agent systems. I also study serverless and hybrid cloud computing, resource management, and networked systems.",
+    "I received my Ph.D. in Computer Architecture from Huazhong University of Science and Technology in June 2023, advised by Prof. Fangming Liu."
+  ],
+  "research_interests": [
+    "LLM Training",
+    "Distributed Systems",
+    "Reinforcement Learning",
+    "Multi-Agent Systems",
+    "Serverless Computing",
+    "Cloud Resource Management"
+  ],
+  "education": [
+    {
+      "dates": "Sep 2016 – Jun 2023",
+      "degree": "Ph.D. in Computer Architecture",
+      "institution": "Huazhong University of Science and Technology",
+      "detail": "Advisor: Prof. Fangming Liu"
+    },
+    {
+      "dates": "Sep 2014 – Jun 2016",
+      "degree": "Master’s degree in Computer Technology",
+      "institution": "Huazhong University of Science and Technology"
+    },
+    {
+      "dates": "Sep 2009 – Jun 2013",
+      "degree": "Bachelor’s degree in Computer Science and Technology",
+      "institution": "Henan University"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Tricircle",
+      "description": "Networking automation across Neutron in OpenStack. I contributed to dynamic pod binding, load balancing, and the L3 networking model.",
+      "links": [
+        {
+          "label": "Project",
+          "url": "https://wiki.openstack.org/wiki/Tricircle"
+        },
+        {
+          "label": "Source archive",
+          "url": "https://github.com/openstack-archive/tricircle"
+        }
+      ],
+      "contributions": [
+        {
+          "label": "Dynamic pod binding (Newton)",
+          "url": "https://review.opendev.org/#/c/306224"
+        },
+        {
+          "label": "Load-Balancing-as-a-Service (Queens)",
+          "url": "https://review.opendev.org/#/c/500520"
+        },
+        {
+          "label": "L3 networking model (Stein)",
+          "url": "https://review.opendev.org/#/c/530904"
+        }
+      ]
+    }
+  ],
+  "awards": [
+    "Prize Winner, Huawei Developer Competition — “Code into Space” Track · 2022",
+    "Huawei Scholarship · 2021",
+    "IEEE INFOCOM Best-in-Session Presentation Award · 2018",
+    "National Scholarship · 2016–2017",
+    "First-Class Outstanding Doctoral Academic Scholarship, HUST · 2019–2020",
+    "First-Class Doctoral Academic Scholarship, HUST · 2016–2017, 2017–2018, 2018–2019",
+    "Zhixing Scholarship, HUST · Second Prize, 2016–2017; Third Prize, 2017–2018",
+    "Merit Student, HUST · 2016–2017, 2017–2018"
+  ],
+  "academic_links": []
+}

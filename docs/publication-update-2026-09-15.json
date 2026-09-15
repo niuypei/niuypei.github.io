@@ -1,0 +1,222 @@
+{
+  "requested_scholar_profile": "https://scholar.google.com/citations?hl=en&tzom=-480&user=bP99ILMAAAAJ",
+  "retrieved_date": "2026-09-15",
+  "scholar_access": {
+    "status": "unavailable",
+    "curl_http_status": 429,
+    "web_result": "unsafe/cannotfetch reported by root",
+    "total_count": null,
+    "pagination_verified": false,
+    "article_membership_verified": false,
+    "note": "Do not claim complete Google Scholar synchronization. No per-record Scholar URLs were obtained; no placeholder URLs invented."
+  },
+  "fallback_sources": [
+    "https://dblp.org/pid/167/3905.html",
+    "https://api.crossref.org/",
+    "https://arxiv.org/abs/2602.09578"
+  ],
+  "dblp_count": 12,
+  "dblp_counts_by_type": {
+    "journal": 6,
+    "conference": 5,
+    "preprint": 1
+  },
+  "existing_count": 8,
+  "additions": [
+    {
+      "id": "flexmarl-arxiv-2026",
+      "type": "preprint",
+      "title": "Rollout-Training Co-Design for Efficient LLM-Based Multi-Agent Reinforcement Learning",
+      "authors": [
+        "Zhida Jiang",
+        "Zhaolong Xing",
+        "Jiawei Lu",
+        "Yipei Niu",
+        "Qingyuan Sang",
+        "Liangxu Zhang",
+        "Wenquan Dai",
+        "Junhua Shu",
+        "Jiaxing Wang",
+        "Qiangyu Pei",
+        "Qiong Chen",
+        "Xinyu Liu",
+        "Fangming Liu",
+        "Ai Han",
+        "Zhen Chen",
+        "Ke Zhang"
+      ],
+      "venue": "arXiv",
+      "short_venue": "arXiv",
+      "year": 2026,
+      "display_year": 2026,
+      "citation": "arXiv preprint arXiv:2602.09578, 2026.",
+      "doi": "10.48550/arXiv.2602.09578",
+      "url": "https://arxiv.org/abs/2602.09578",
+      "eprint": "2602.09578",
+      "links": [
+        {
+          "label": "PDF",
+          "url": "https://arxiv.org/pdf/2602.09578"
+        },
+        {
+          "label": "arXiv",
+          "url": "https://arxiv.org/abs/2602.09578"
+        }
+      ],
+      "source_page": "https://arxiv.org/abs/2602.09578",
+      "sources": [
+        "https://arxiv.org/abs/2602.09578",
+        "https://dblp.org/rec/journals/corr/abs-2602-09578"
+      ],
+      "verification_note": "arXiv author-submitted metadata confirms the complete 16-author order and initial date 2026-02-10. Abstract page has no journal reference. The HTML manuscript contains a generic conference template line, which is insufficient to assign a formal conference venue. Google Scholar profile unavailable (HTTP 429); membership in the requested Scholar profile has not been verified.",
+      "scholar_entry_url": null,
+      "scholar_profile_membership_verified": false,
+      "archivePrefix": "arXiv",
+      "primaryClass": "cs.LG"
+    },
+    {
+      "id": "combofunc-tpds-2024",
+      "type": "journal",
+      "title": "ComboFunc: Joint Resource Combination and Container Placement for Serverless Function Scaling With Heterogeneous Container",
+      "authors": [
+        "Zhaojie Wen",
+        "Qiong Chen",
+        "Quanfeng Deng",
+        "Yipei Niu",
+        "Zhen Song",
+        "Fangming Liu"
+      ],
+      "venue": "IEEE Transactions on Parallel and Distributed Systems",
+      "short_venue": "TPDS",
+      "year": 2024,
+      "display_year": 2024,
+      "citation": "IEEE Transactions on Parallel and Distributed Systems (TPDS), 35(11), pp. 1989–2005, 2024.",
+      "doi": "10.1109/TPDS.2024.3454071",
+      "url": "https://doi.org/10.1109/TPDS.2024.3454071",
+      "volume": "35",
+      "number": "11",
+      "pages": "1989--2005",
+      "links": [
+        {
+          "label": "Preprint",
+          "url": "https://fangmingliu.github.io/files/ComboFunc-tpds24.pdf"
+        },
+        {
+          "label": "DOI",
+          "url": "https://doi.org/10.1109/TPDS.2024.3454071"
+        }
+      ],
+      "source_page": "https://dblp.org/pid/167/3905.html",
+      "sources": [
+        "https://dblp.org/rec/journals/tpds/WenCDNSL24",
+        "https://api.crossref.org/works/10.1109%2FTPDS.2024.3454071",
+        "https://ieeexplore.ieee.org/document/10663837/",
+        "https://fangmingliu.github.io/files/ComboFunc-tpds24.pdf"
+      ],
+      "verification_note": "Publisher-deposited Crossref metadata and DBLP agree on title, author order, final issue year, volume, issue, pages, and DOI. Author-hosted PDF URL fetched successfully; this is an author manuscript with placeholder issue details. Google Scholar profile unavailable (HTTP 429); membership in the requested Scholar profile has not been verified.",
+      "scholar_entry_url": null,
+      "scholar_profile_membership_verified": false
+    },
+    {
+      "id": "stepconf-tpds-2024",
+      "type": "journal",
+      "title": "Joint Optimization of Parallelism and Resource Configuration for Serverless Function Steps",
+      "authors": [
+        "Zhaojie Wen",
+        "Qiong Chen",
+        "Yipei Niu",
+        "Zhen Song",
+        "Quanfeng Deng",
+        "Fangming Liu"
+      ],
+      "venue": "IEEE Transactions on Parallel and Distributed Systems",
+      "short_venue": "TPDS",
+      "year": 2024,
+      "display_year": 2024,
+      "citation": "IEEE Transactions on Parallel and Distributed Systems (TPDS), 35(4), pp. 560–576, 2024.",
+      "doi": "10.1109/TPDS.2024.3365134",
+      "url": "https://doi.org/10.1109/TPDS.2024.3365134",
+      "volume": "35",
+      "number": "4",
+      "pages": "560--576",
+      "links": [
+        {
+          "label": "Preprint",
+          "url": "https://fangmingliu.github.io/files/TPDS24-stepconf.pdf"
+        },
+        {
+          "label": "DOI",
+          "url": "https://doi.org/10.1109/TPDS.2024.3365134"
+        }
+      ],
+      "source_page": "https://dblp.org/pid/167/3905.html",
+      "sources": [
+        "https://dblp.org/rec/journals/tpds/WenCNSDL24",
+        "https://api.crossref.org/works/10.1109%2FTPDS.2024.3365134",
+        "https://ieeexplore.ieee.org/document/10433749/",
+        "https://fangmingliu.github.io/files/TPDS24-stepconf.pdf"
+      ],
+      "verification_note": "Publisher-deposited Crossref metadata and DBLP agree on title, author order, final issue year, volume, issue, pages, and DOI. Author-hosted PDF URL fetched successfully; this is an author manuscript with placeholder issue details. Google Scholar profile unavailable (HTTP 429); membership in the requested Scholar profile has not been verified.",
+      "scholar_entry_url": null,
+      "scholar_profile_membership_verified": false
+    },
+    {
+      "id": "serverless-cost-tpds-2024",
+      "type": "journal",
+      "title": "Demystifying the Cost of Serverless Computing: Towards a Win-Win Deal",
+      "authors": [
+        "Fangming Liu",
+        "Yipei Niu"
+      ],
+      "venue": "IEEE Transactions on Parallel and Distributed Systems",
+      "short_venue": "TPDS",
+      "year": 2024,
+      "display_year": 2024,
+      "citation": "IEEE Transactions on Parallel and Distributed Systems (TPDS), 35(1), pp. 59–72, 2024.",
+      "doi": "10.1109/TPDS.2023.3330849",
+      "url": "https://doi.org/10.1109/TPDS.2023.3330849",
+      "volume": "35",
+      "number": "1",
+      "pages": "59--72",
+      "links": [
+        {
+          "label": "Preprint",
+          "url": "https://fangmingliu.github.io/files/cost_model_tpds.pdf"
+        },
+        {
+          "label": "DOI",
+          "url": "https://doi.org/10.1109/TPDS.2023.3330849"
+        }
+      ],
+      "source_page": "https://dblp.org/pid/167/3905.html",
+      "sources": [
+        "https://dblp.org/rec/journals/tpds/LiuN24",
+        "https://api.crossref.org/works/10.1109%2FTPDS.2023.3330849",
+        "https://ieeexplore.ieee.org/document/10310285/",
+        "https://fangmingliu.github.io/files/cost_model_tpds.pdf"
+      ],
+      "verification_note": "Publisher-deposited Crossref metadata and DBLP agree on title, author order, final issue year, volume, issue, pages, and DOI. Author-hosted PDF URL fetched successfully; this is an author manuscript with placeholder issue details. Google Scholar profile unavailable (HTTP 429); membership in the requested Scholar profile has not been verified.",
+      "scholar_entry_url": null,
+      "scholar_profile_membership_verified": false
+    }
+  ],
+  "existing_ids_found_on_dblp": [
+    "postman-tpds-2022",
+    "fpga-tcc-2022",
+    "hybrid-cloud-monet-2017",
+    "postman-atc-2019",
+    "microservices-infocom-2018",
+    "flash-deals-infocom-2017",
+    "hybrid-cloud-infocom-2015",
+    "hybrid-cloud-collaboratecom-2015"
+  ],
+  "existing_metadata_changes_required": [],
+  "resulting_count_with_verified_candidates": 12,
+  "notes": [
+    "The source is DBLP plus IEEE-deposited Crossref metadata, author-hosted manuscripts, and arXiv, not the blocked Scholar list.",
+    "No publication-level affiliation, employer, or position data is included in this sanitized handoff.",
+    "Final journal years follow publisher issue year; Scholar might show early-access years, which cannot currently be compared.",
+    "All new manuscript links should remain external; avoid copying affiliation-containing PDF first pages into homepage previews.",
+    "Existing 8 entries were matched by title to the DBLP bibliography; this pass did not replace their existing publisher verification records."
+  ]
+}

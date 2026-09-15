@@ -1,0 +1,65 @@
+{
+  "verified_on": "2026-09-15",
+  "status": "verified",
+  "publication_id": "serverless-cost-tpds-2024",
+  "paper_title": "Demystifying the Cost of Serverless Computing: Towards a Win-Win Deal",
+  "authors": [
+    "Fangming Liu",
+    "Yipei Niu"
+  ],
+  "paper_doi": "10.1109/TPDS.2023.3330849",
+  "official_article_url": "https://ieeexplore.ieee.org/document/10310285/",
+  "journal": "IEEE Transactions on Parallel and Distributed Systems",
+  "journal_abbreviation": "TPDS",
+  "award_year": 2024,
+  "award_name": "Best Paper Award",
+  "award_display_name": "IEEE Transactions on Parallel and Distributed Systems Best Paper Award",
+  "award_display_short": "IEEE TPDS Best Paper Award",
+  "award_status": "winner",
+  "winner_verified": true,
+  "runner_up": false,
+  "announcement_date": null,
+  "recommended_paper_badge": "2024 Best Paper Award",
+  "recommended_honor": {
+    "year": "2024",
+    "title": "IEEE TPDS Best Paper Award",
+    "description": "For Demystifying the Cost of Serverless Computing: Towards a Win-Win Deal.",
+    "url": "https://www.computer.org/publications/best-paper-awards-archive#winners"
+  },
+  "sources": [
+    {
+      "url": "https://www.computer.org/publications/best-paper-awards-archive#winners",
+      "page_title": "Best Paper Awards Archive",
+      "retrieval": "Official computer.org page retrieved in web search result; direct curl returned HTTP 403.",
+      "section_path": [
+        "2024 Best Paper Awards",
+        "Winners"
+      ],
+      "brief_quote": "Demystifying the Cost of Serverless Computing: Towards a Win-Win Deal",
+      "verified_facts": [
+        "The TPDS entry is inside the 2024 awards Winners subsection.",
+        "Entry identifies Fangming Liu and Yipei Niu as authors.",
+        "Bibliography matches TPDS volume 35, issue 1, pages 59–72, January 2024."
+      ]
+    },
+    {
+      "url": "https://www.computer.org/publications/best-paper-award-winners",
+      "page_title": "Best Paper Award Winners",
+      "retrieval": "Official computer.org page retrieved in web search result; direct web open failed and direct curl returned HTTP 403.",
+      "section_path": [
+        "2024 Best Paper Winners"
+      ],
+      "brief_quote": "2024 Best Paper Winners",
+      "verified_facts": [
+        "The TPDS winner entry names the same paper and authors.",
+        "A separate 2024 Runner-up section lists a different TPDS paper, MPMoE, so the selected paper is the winner.",
+        "The page attributes the awards to the IEEE Computer Society Publications Board."
+      ]
+    }
+  ],
+  "notes": [
+    "The full display name joins the official journal name with the award category; the official pages group awards by year and journal rather than giving a standalone expanded award title.",
+    "2024 is the award year explicitly stated by the official winners sections; do not substitute the article DOI year 2023 or infer an announcement date.",
+    "No employer, job title, or affiliation data is included."
+  ]
+}
