@@ -1,13 +1,13 @@
 # Minimal Light 迁移与内容更新记录
 
-更新日期：2026-09-15
+更新日期：2026-11-13
 
 ## 当前结果
 
 - 模板：用户选定的 A · Minimal Light，英文单页学术主页。
 - 本地预览：[http://localhost:8000/](http://localhost:8000/)。
 - 简介、研究方向、教育与奖项已更新；侧栏使用用户指定的 AI Infra Engineer，正文以学术和开源信息为主。
-- 论文共 **12 条：6 篇期刊、5 篇会议、1 篇预印本**，保留完整作者顺序和本人姓名强调。
+- 论文共 **12 条：6 篇期刊、6 篇会议**，保留完整作者顺序和本人姓名强调。
 - 支持论文资源链接、展开 BibTeX 和整份书目下载。
 - 按用户指定，将 **Demystifying the Cost of Serverless Computing: Towards a Win-Win Deal** 置于期刊论文第 1 条；其余论文在各类型内保持本人一作优先，一作与非一作分别按发表时间倒序，同年按已核实的月日排序，作者列表本身保持原顺序。
 - 获奖论文条目与 Honors & Awards 同时标注 **2024 IEEE TPDS Best Paper Award**，并提供官方名单链接。
@@ -33,7 +33,7 @@
 | ComboFunc | TPDS 35(11):1989–2005, 2024 |
 | Joint Optimization of Parallelism and Resource Configuration for Serverless Function Steps | TPDS 35(4):560–576, 2024 |
 | Demystifying the Cost of Serverless Computing: Towards a Win-Win Deal | TPDS 35(1):59–72, 2024 |
-| Rollout-Training Co-Design for Efficient LLM-Based Multi-Agent Reinforcement Learning | arXiv:2602.09578, 2026；单列预印本 |
+| FlexMARL: Graph-Driven Rollout-Training Co-Design for LLM-Based Multi-Agent Reinforcement Learning | ACM SIGOPS ATC 2026；已录用、待出版；保留 arXiv 预印本链接 |
 
 简历中的待刊年份和旧稿日期可能早于正式刊期，网页与 BibTeX 使用正式出版信息。预印本不推断正式刊会。原作者手稿仅用于历史核验，不把其中的占位卷期当作出版依据；当前网页统一使用官方论文入口。
 
@@ -55,6 +55,12 @@
 
 奖项数据统一维护在该论文的 `award` 字段，由生成器同时显示在论文下方和荣誉栏目；论文题目均使用纯文本，奖项名称保留官方名单链接。用户指定的期刊首位展示由该论文的 `pinned: true` 控制。
 
+## 2026-11-13：FlexMARL 录用更新
+
+按用户提供的 [ATC 2026 官方日程](https://atc.sigops.org/2026/schedule.html)及[录用名单](https://atc.sigops.org/2026/accepted.html)，将 FlexMARL 从预印本移入会议论文，采用正式题名并标注 Accepted; to appear。会议全称为 ACM SIGOPS Annual Technical Conference。原 16 人作者顺序一致，不摘录机构信息。
+
+记录 ID 保留以维持已有链接；不重复新增条目。会议论文按既定一作优先规则排序，FlexMARL 位于非一作会议论文的第一项。`publication_date` 仅保留已确认的 2026 年，未将报告日期当成出版日期；BibTeX 改为 `@inproceedings` 并注明待出版，不把 arXiv DOI 当成会议 DOI。原稿信息归入 `preprint`，入口标明 Preprint PDF。详见 [本次核验记录](flexmarl-atc-2026-update.json)。
+
 ## 公开内容边界
 
 - 用户明确指定的 AI Infra Engineer 标签可在侧栏和页面标题显示；不添加公司及其他任职细节。用户明确要求的奖项及奖学金主办方名称可出现在荣誉中，不作为任职信息。
@@ -67,16 +73,18 @@
 
 - 按用户最新要求，仅删除网站目录中的 **8 篇论文全文 PDF**；恢复并保留全部 **4 份原始幻灯片 PDF**，同时保留头像与生成的 BibTeX。论文全文和幻灯片分别管理。
 - 8 篇 IEEE 论文统一使用 IEEE Xplore 官方文章页，原 PDF/Preprint 按钮改为 IEEE Xplore。DOI 与文章编号由出版社 Crossref 记录核对；IEEE 的浏览器验证限制导致本轮未验证直接 PDF 下载，不生成猜测的 PDF 地址。记录见 [IEEE 链接核验](ieee-official-links-2026-09-15.json)。
-- 另 4 篇按真实来源链接：2 篇 Springer、1 篇 USENIX、1 篇 arXiv。USENIX 官网明确给出了论文 PDF 和演示幻灯片链接；arXiv 预印本保留官网 PDF。未将这些论文误配到 IEEE 或 ACM。
+- 另 4 篇按真实来源链接：2 篇 Springer、1 篇 USENIX ATC 2019、1 篇 ACM SIGOPS ATC 2026。USENIX 官网明确给出了论文 PDF 和演示幻灯片链接；FlexMARL 保留 arXiv 官方预印本链接。
 - 幻灯片入口优先使用已核实的官网链接：USENIX Slides 继续使用官方外链；INFOCOM 2015、2017、2018 尚无已核实的官方 Slides 入口，恢复使用原本地文件 `INFOCOM2015-Slides.pdf`、`INFOCOM2017-Slides-v3.pdf`、`INFOCOM2018-Slides-v5.pdf`。USENIX 的原始 `atc19_slides.pdf` 也保留在 `assets/files/` 中供存档。
 - 四篇有幻灯片的论文通过 `local_slides` 记录本地存档路径；该字段不参与生成，实际 Slides 按钮由 `links` 配置。历史来源快照在项目外保留，不参与提交或主页构建。
 - `python3 scripts/build.py` 与 `python3 scripts/check_site.py` 已通过：**12 篇论文、12 处 BibTeX、9 个本地资源引用**，其中新增的 3 个引用为 INFOCOM 本地 Slides 链接；生成文件一致，锚点唯一，引用标签目标存在。检查允许已明确登记的本地 Slides，继续禁止本地论文全文 PDF。
-- 预印本输出为 `@misc`，包含 arXiv 编号、归档名称与学科分类。
+- 当前 12 条书目为 6 个 `@article` 和 6 个 `@inproceedings`；FlexMARL 包含 Accepted; to appear 说明。
 - 本地 HTTP 返回的主页和 BibTeX 与生成文件逐字节一致；4 份恢复的本地 Slides 与旧站快照的 SHA-256 一致，HTTP 均返回 200 和 `application/pdf`；`git diff --check` 通过。
 - 教育、奖项和论文记录已独立复核；旧计划文档中的任职表述已清理。本轮用户授权的两个荣誉名称作为允许公开的奖项处理。
 - Browser 工具无可用浏览器，尚未完成桌面／手机视觉实测。响应式样式可在本地预览中查看。
 
 ## 待办
+
+- [x] 按官方 ATC 2026 日程更新 FlexMARL 的题名、会议分类、录用状态与引用。
 
 - [x] 按简历更新学位、专业、起止时间和学术奖项。
 - [x] 补充四条有公开出版记录支持的论文，生成 12 条书目。

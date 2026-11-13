@@ -88,7 +88,7 @@ def main():
             assert (stylesheet.parent / url).is_file(), "Missing CSS asset: " + url
     local_pdfs = {path.resolve() for path in (ROOT / "assets").rglob("*.[pP][dD][fF]")}
     assert local_pdfs == local_slides, "Only declared slide archives may be stored as local PDFs"
-    official_hosts = {"ieeexplore.ieee.org", "dl.acm.org", "link.springer.com", "link.springernature.com", "www.usenix.org", "arxiv.org"}
+    official_hosts = {"ieeexplore.ieee.org", "dl.acm.org", "link.springer.com", "link.springernature.com", "www.usenix.org", "arxiv.org", "atc.sigops.org"}
     for paper in publications:
         for resource in [{"url": paper["url"], "label": "Article"}] + paper.get("links", []):
             if resource["label"] in ("DOI", "Lightning talk"):

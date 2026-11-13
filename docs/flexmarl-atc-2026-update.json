@@ -1,0 +1,45 @@
+{
+  "verified_on": "2026-11-13",
+  "id": "flexmarl-arxiv-2026",
+  "title": "FlexMARL: Graph-Driven Rollout-Training Co-Design for LLM-Based Multi-Agent Reinforcement Learning",
+  "authors": [
+    "Zhida Jiang",
+    "Zhaolong Xing",
+    "Jiawei Lu",
+    "Yipei Niu",
+    "Qingyuan Sang",
+    "Liangxu Zhang",
+    "Wenquan Dai",
+    "Junhua Shu",
+    "Jiaxing Wang",
+    "Qiangyu Pei",
+    "Qiong Chen",
+    "Xinyu Liu",
+    "Fangming Liu",
+    "Ai Han",
+    "Zhen Chen",
+    "Ke Zhang"
+  ],
+  "venue": "2026 ACM SIGOPS Annual Technical Conference (ATC 2026)",
+  "status": "accepted",
+  "source_urls": [
+    "https://atc.sigops.org/2026/accepted.html",
+    "https://atc.sigops.org/2026/schedule.html",
+    "https://atc.sigops.org/2026/index.html"
+  ],
+  "conference_dates": "2026-11-15 to 2026-11-18",
+  "scheduled_session": {
+    "name": "Session 19: Model Training",
+    "date": "2026-11-17",
+    "time": "15:25–16:25",
+    "timezone": "Asia/Hong_Kong"
+  },
+  "bibliography_note": "Accepted; to appear",
+  "notes": [
+    "The schedule and accepted-paper list agree on the final title and all 16 authors; author affiliations are omitted.",
+    "The original preprint is updated in place rather than added as a duplicate publication. The stable record id is preserved.",
+    "The article is categorized as a conference paper; exact publication date, conference DOI, and pages are not confirmed.",
+    "The arXiv DOI belongs to the preprint and is not used as a conference-paper DOI.",
+    "The prior first-author-first ordering rule continues to apply, placing this paper first among non-first-author conference papers."
+  ]
+}

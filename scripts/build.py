@@ -57,7 +57,7 @@ def bibtex(paper):
         for field in ("eprint", "archivePrefix", "primaryClass"):
             if paper.get(field):
                 fields[field] = paper[field]
-    for field in ("volume", "number", "pages", "doi", "publisher"):
+    for field in ("volume", "number", "pages", "doi", "publisher", "note"):
         if paper.get(field):
             fields[field] = paper[field]
     if paper.get("url"):
