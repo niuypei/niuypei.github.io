@@ -40,6 +40,6 @@
     "The original preprint is updated in place rather than added as a duplicate publication. The stable record id is preserved.",
     "The article is categorized as a conference paper; exact publication date, conference DOI, and pages are not confirmed.",
     "The arXiv DOI belongs to the preprint and is not used as a conference-paper DOI.",
-    "The prior first-author-first ordering rule continues to apply, placing this paper first among non-first-author conference papers."
+    "At the owner's request, this paper has pinned: true in content/publications.json and appears first within Conference papers. Demystifying the Cost of Serverless Computing remains pinned first within Journal articles. The remaining papers in each type retain first-author-first ordering, with each group sorted by publication date descending."
   ]
 }

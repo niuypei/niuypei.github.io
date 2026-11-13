@@ -9,7 +9,7 @@
 - 简介、研究方向、教育与奖项已更新；侧栏使用用户指定的 AI Infra Engineer，正文以学术和开源信息为主。
 - 论文共 **12 条：6 篇期刊、6 篇会议**，保留完整作者顺序和本人姓名强调。
 - 支持论文资源链接、展开 BibTeX 和整份书目下载。
-- 按用户指定，将 **Demystifying the Cost of Serverless Computing: Towards a Win-Win Deal** 置于期刊论文第 1 条；其余论文在各类型内保持本人一作优先，一作与非一作分别按发表时间倒序，同年按已核实的月日排序，作者列表本身保持原顺序。
+- 按用户指定，将 **FlexMARL** 置于会议论文第 1 条，**Demystifying the Cost of Serverless Computing: Towards a Win-Win Deal** 保持期刊论文第 1 条；其余论文在各类型内保持本人一作优先，一作与非一作分别按发表时间倒序，同年按已核实的月日排序，作者列表本身保持原顺序。
 - 获奖论文条目与 Honors & Awards 同时标注 **2024 IEEE TPDS Best Paper Award**，并提供官方名单链接。
 - Python 标准库从 `content/` 生成静态 HTML 与 BibTeX；无需 JavaScript，字体在本地托管。
 - 用户已验收页面并授权提交、推送至 `origin/main`；线上部署状态以 GitHub Pages 构建结果为准。
@@ -49,7 +49,7 @@
 
 12 篇论文补充了 `publication_date`，采用正式刊期、论文集出版时间或 arXiv 初投日期，并保留来源原有的年／月／日精度。逐项来源见 [发表日期核验](publication-dates-2026-09-15.json)。`display_year` 仅作展示，期刊和会议各版本分别保留。
 
-用户本轮明确指定 **Demystifying the Cost of Serverless Computing: Towards a Win-Win Deal** 排在期刊论文第 1 条。该论文在 `content/publications.json` 中设置 `pinned: true`，在所属期刊类型内置顶；其余论文继续采用各类型内本人一作优先、一作与非一作各自按发表日期倒序的规则。本次仅调整论文展示次序，作者顺序、奖项信息和论文及幻灯片链接保持原样。
+用户明确指定 **FlexMARL: Graph-Driven Rollout-Training Co-Design for LLM-Based Multi-Agent Reinforcement Learning** 排在会议论文第 1 条，**Demystifying the Cost of Serverless Computing: Towards a Win-Win Deal** 保持期刊论文第 1 条。两篇论文均在 `content/publications.json` 中设置 `pinned: true`，各自在所属类型内置顶；其余论文继续采用各类型内本人一作优先、一作与非一作各自按发表日期倒序的规则。本次排序调整保留作者顺序、奖项信息和论文及幻灯片链接。
 
 [IEEE Computer Society 官方获奖名单](https://www.computer.org/publications/best-paper-awards-archive#winners) 将 Fangming Liu、Yipei Niu 的 **Demystifying the Cost of Serverless Computing: Towards a Win-Win Deal** 列为 **2024 年 TPDS 最佳论文奖获奖论文**。另一个[官方获奖页面](https://www.computer.org/publications/best-paper-award-winners)与其一致。核验内容通过官方页面的搜索结果读取；直接访问返回 403。奖项年份为 2024，未推断颁奖日期。证据见 [奖项核验记录](best-paper-award-2024.json)。
 
@@ -59,7 +59,7 @@
 
 按用户提供的 [ATC 2026 官方日程](https://atc.sigops.org/2026/schedule.html)及[录用名单](https://atc.sigops.org/2026/accepted.html)，将 FlexMARL 从预印本移入会议论文，采用正式题名并标注 Accepted; to appear。会议全称为 ACM SIGOPS Annual Technical Conference。原 16 人作者顺序一致，不摘录机构信息。
 
-记录 ID 保留以维持已有链接；不重复新增条目。会议论文按既定一作优先规则排序，FlexMARL 位于非一作会议论文的第一项。`publication_date` 仅保留已确认的 2026 年，未将报告日期当成出版日期；BibTeX 改为 `@inproceedings` 并注明待出版，不把 arXiv DOI 当成会议 DOI。原稿信息归入 `preprint`，入口标明 Preprint PDF。详见 [本次核验记录](flexmarl-atc-2026-update.json)。
+记录 ID 保留以维持已有链接；不重复新增条目。按用户最新要求，FlexMARL 通过 `pinned: true` 排在会议论文第一项；Demystifying 保持期刊首位，其余论文继续按各类型内一作优先、各组内日期倒序排列。`publication_date` 仅保留已确认的 2026 年，未将报告日期当成出版日期；BibTeX 改为 `@inproceedings` 并注明待出版，不把 arXiv DOI 当成会议 DOI。原稿信息归入 `preprint`，入口标明 Preprint PDF。详见 [本次核验记录](flexmarl-atc-2026-update.json)。
 
 ## 公开内容边界
 
@@ -93,7 +93,7 @@
 - [x] 补充代码上太空赛道优胜奖（2022）与华为奖学金（2021）。
 - [x] 所有论文全文入口使用官方来源，仅删除本地论文全文 PDF。
 - [x] 恢复并保留全部 4 份原始 Slides PDF；USENIX 使用官方 Slides 入口，3 篇 INFOCOM 使用原本地 Slides 入口。
-- [x] 将用户指定的 Demystifying the Cost of Serverless Computing 通过 `pinned: true` 置于期刊首位，其余论文保持各类型内一作优先、各组内时间倒序。
+- [x] 通过 `pinned: true` 将 FlexMARL 置于会议首位、Demystifying the Cost of Serverless Computing 保持期刊首位，其余论文保持各类型内一作优先、各组内时间倒序。
 - [x] 在获奖论文及荣誉栏目注明 2024 IEEE TPDS 最佳论文奖，并链接官方名单。
 - [ ] 取得 Scholar 完整列表后，核实条目是否存在遗漏或多余。
 - [ ] 完成桌面和手机浏览器视觉验收。
